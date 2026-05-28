@@ -1,4 +1,9 @@
-## Hi there 👋
+## Project Concorde
+
+Automate the journey from AI governance policies to production-ready systems. Bridge the gap between business requirements and technical controls through vendor-neutral orchestration of best-in-class safety tools.
+
+Coming soon...
+
 
 <!--
 
